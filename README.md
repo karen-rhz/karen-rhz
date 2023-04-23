@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I come from an Admin background
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=karen-rhz&theme=highcontrast&border_radius=4&exclude_days=Sun%2CFri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=karen-rhz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 - 🔭 I’m currently working finishing my Bachelor at ULaval
 - 🌱 I’m currently learning Python and JavaScript
 - ⚡ Fun fact: I come from an Admin background
